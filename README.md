@@ -8,7 +8,7 @@
 
 ## 🧐 About
 - 🔭  I'm a tech enthusiast.
-- 🏢  I was an intern at Maruti Suzuki India.
+- 🏢  I did an internship at Maruti Suzuki India(Jul 2021-Sep2021).
 - 🏄‍  I like to explore a new angle in existing ideas. 
 - ✨  I love to build Android applications based on unique ideas.  
 - 🌱  I love to learn new things and help others. 
