@@ -1,4 +1,4 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hey Everyone!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hey Everyone !&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiteshbeniwal" alt="hiteshbeniwal" /> </p>
 
@@ -10,10 +10,9 @@
 - 🔭  I'm a tech enthusiast.
 - 🏢  I was an intern at Maruti Suzuki India.
 - 🏄‍  I like to explore a new angle in existing ideas. 
-- ✨  I love to build Android applications based on unique ideas.
-- 😄  
+- ✨  I love to build Android applications based on unique ideas.  
 - 🌱  I love to learn new things and help others. 
-- 🎨  Fun fact: Time spent in Nature brings me inner peace and improves producivity.
+- 🎨  Fun fact: Time spent with nature enhances my producivity.
 
 #### 📫  How to reach me: mail me at [ch_hitesh@icloud.com](mailto:ch_hitesh@icloud.com)
 
@@ -21,7 +20,7 @@
 
 ##  🛠 Tech Stack
 
-<p align="center"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="Android" width="56" height="56"/>  <img src="https://camo.githubusercontent.com/c4040f9336d148bb54fd63c13b8639f3af4ac7e1b7fc8154593dd236ff0ea8eb/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6b6f746c696e2d69636f6e2e737667" alt="Kotlin" width="52" height="52"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="cplusplus" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg" alt="Android" width="56" height="56"/> </p>
+<p align="center"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="Android" width="56" height="56"/>  <img src="https://github.com/gilbarbara/logos/blob/master/logos/java.svg" alt="Java" width="52" height="52"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="cplusplus" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="56" height="56"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg" alt="Android" width="56" height="56"/> </p>
 
 <br>
 
