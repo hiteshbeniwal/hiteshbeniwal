@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"> Hey Everyone !&nbsp;
+👋 Hey Everyone !&nbsp;
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="2px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiteshbeniwal" alt="hiteshbeniwal" /> </p>
