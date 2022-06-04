@@ -4,7 +4,7 @@
 
 #### I'm Hitesh Beniwal, Student at 👨‍💻 Chandigarh University currently enrolled in B.E(Computer Science). <br>  I am an Android Developer and a little bit of UI Designer, working on polishing myself in every way I can.
  <br>
-<img align="right" alt="GIF" src="https://www.hopkins.kyschools.us/cms/lib/KY02204223/Centricity/Domain/570/blue_boy_typing_nothought.gif" width="400px" />
+<img align="right" alt="GIF" src="https://www.hopkins.kyschools.us/cms/lib/KY02204223/Centricity/Domain/570/blue_boy_typing_nothought.gif" width="200px" />
 
 ## 🧐 About
 - 🔭  I'm a tech enthusiast.
